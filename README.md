@@ -7,6 +7,7 @@
 - ⚡  Fun fact: I love sharing my knowledge to others around me !
 
 ### 💬 Connect with me:
+---
 
 [<img align="left" alt="TanguyLH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanguy-le-henaff/)
 <!--
@@ -21,5 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-### My Github Stats
+### My Github Stats: 
+--- 
+
 <img align="left" alt="TanguyLH's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TanguyLH&show_icons=true&hide_border=true&count_private=true" />
