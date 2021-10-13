@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-### My Github Stats: 
+
+<h3> My Github Stats: <h3/> 
 --- 
 
 <img align="left" alt="TanguyLH's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TanguyLH&show_icons=true&hide_border=true&count_private=true" />
