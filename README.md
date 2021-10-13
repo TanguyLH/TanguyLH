@@ -10,6 +10,7 @@
 ---
 
 [<img align="left" alt="TanguyLH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanguy-le-henaff/)
+<br />
 <!--
 **TanguyLH/TanguyLH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
